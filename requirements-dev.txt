@@ -1,0 +1,2 @@
+moto[ec2,s3,rds,elbv2,cloudwatch]>=5.0
+pytest>=8.0
